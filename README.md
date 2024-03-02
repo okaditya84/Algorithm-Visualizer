@@ -4,11 +4,6 @@
 
 A web application, that lets you visualize complex algorithms. User's gets to working of algorithms, at different speeds, and different setups.
 
-![Issues](https://img.shields.io/github/issues/servermonk/Algorithm-Visualizer)
-![PRs](https://img.shields.io/github/issues-pr/servermonk/Algorithm-Visualizer)
-![Maintenance](https://img.shields.io/maintenance/yes/2020)
-![star](https://img.shields.io/github/stars/servermonk/Algorithm-Visualizer?style=social)
-![fork](https://img.shields.io/github/forks/okaditya84/Algorithm-Visualizer?style=social)
 
 
 </div>
