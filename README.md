@@ -60,11 +60,11 @@ git clone https://github.com/okaditya84/Algorithm-Visualizer
 - Install the dependencies
 ```
 npm install
-```bash
+```
 - Run the server
 ```
 npm start
-```bash
+```
 
 - Open the browser and go to the link
 ```
