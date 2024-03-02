@@ -2,7 +2,7 @@
 
 <h1 align="center"> Algorithm-Visualizer</h1>
 
-A web application, that lets you play with complex algorithms. User's gets to visualize working of algorithms, at different speeds, and different setups.
+A web application, that lets you visualize complex algorithms. User's gets to working of algorithms, at different speeds, and different setups.
 
 ![Issues](https://img.shields.io/github/issues/servermonk/Algorithm-Visualizer)
 ![PRs](https://img.shields.io/github/issues-pr/servermonk/Algorithm-Visualizer)
@@ -41,9 +41,7 @@ A web application, that lets you play with complex algorithms. User's gets to vi
 </li>
 </ul> 
 
-## Getting Started
 
-> Click [here](https://vizalgo.netlify.app/) to get directed to the hosted page.
 
 #### GitHub Repository Structure
 
