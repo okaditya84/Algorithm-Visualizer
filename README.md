@@ -56,7 +56,7 @@ A web application, that lets you visualize complex algorithms. User's gets to wo
 - Fork the repository and clone it to your local machine.
 ```
 git clone https://github.com/okaditya84/Algorithm-Visualizer
-```bash
+```
 - Install the dependencies
 ```
 npm install
@@ -65,6 +65,7 @@ npm install
 ```
 npm start
 ```bash
+
 - Open the browser and go to the link
 ```
 http://localhost:3000/
