@@ -69,4 +69,4 @@ npm start
 - Open the browser and go to the link
 ```
 http://localhost:3000/
-```bash
+```
